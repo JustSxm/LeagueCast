@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeagueCast", "LeagueCast\LeagueCast.csproj", "{A78A4D15-D8A7-4091-9B46-CAD4709AA813}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeagueCast", "LeagueCast\LeagueCast.csproj", "{A78A4D15-D8A7-4091-9B46-CAD4709AA813}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LCUSharp", "LCUSharp\LCUSharp.csproj", "{24E29CB6-2E9D-44A3-B81D-5B1B9774188B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A78A4D15-D8A7-4091-9B46-CAD4709AA813}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A78A4D15-D8A7-4091-9B46-CAD4709AA813}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A78A4D15-D8A7-4091-9B46-CAD4709AA813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24E29CB6-2E9D-44A3-B81D-5B1B9774188B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E29CB6-2E9D-44A3-B81D-5B1B9774188B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E29CB6-2E9D-44A3-B81D-5B1B9774188B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E29CB6-2E9D-44A3-B81D-5B1B9774188B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
